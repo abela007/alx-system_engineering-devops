@@ -1,0 +1,2 @@
+chmod u+x
+ln -s /bin/ls __ls__
