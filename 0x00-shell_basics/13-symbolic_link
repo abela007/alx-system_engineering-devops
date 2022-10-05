@@ -1,2 +1,2 @@
 chmod u+x
-ln -s /bin/ls __ls__
+__ls__ -> /bin/ls
